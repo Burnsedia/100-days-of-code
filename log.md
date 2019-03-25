@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: March 24, 2019
+
 
 **Today's Progress**: wrote base classes for post model.
 
@@ -9,8 +9,8 @@
 
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: March 25, 2019 
+
 
 **Today's Progress**:wrote base classes for user model
 
@@ -24,3 +24,4 @@
 **Today's Progress**: finally fineshed the user and post models.
 
 **Thoughts** I have only resontly started working on backend development. 
+  
