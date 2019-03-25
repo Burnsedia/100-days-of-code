@@ -9,7 +9,7 @@
 
 
 
-### Day 0: March 25, 2019 
+### Day 0: March 24, 2019 
 
 
 **Today's Progress**:wrote base classes for user model
@@ -19,7 +19,7 @@
 
 
 
-### Day 1: June 27, Monday
+### Day 1: March 25, Monday
 
 **Today's Progress**: finally fineshed the user and post models.
 
