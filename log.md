@@ -12,7 +12,7 @@
 ### Day 0: March 24, 2019 
 
 
-**Today's Progress**:wrote base classes for user model
+**Today's Progress**:wrote base classes for user model 
 
 **Thoughts**:OOP is kind of good for some things.
 
@@ -32,3 +32,9 @@
 *** Today's Progress**:started working on HTML5 pages for web-app. finished Home page.
 
 **Thoughts**: I am liking front-end development and I am learning HTML5 and CSS3, I am also getting better at using Spacmacs. Spacmacs is a Emacs plugin and give Emacs Vim key bindings. I am considering open sourcing BuldPost web-app and working with a team on gitter. or opening a gitter channel.
+
+### Day 3: March 27, Wednesday
+
+**Today's Progress**: started working on main.CSS and finally finished working on HTML5 forms.
+
+**Thoughts**: I am loving front-end development and I cant what to finish this app.
