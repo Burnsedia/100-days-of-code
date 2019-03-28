@@ -38,3 +38,9 @@
 **Today's Progress**: started working on main.CSS and finally finished working on HTML5 forms.
 
 **Thoughts**: I am loving front-end development and I cant what to finish this app.
+
+### Day 4: March 28, Thursday
+
+**Today's Progress**: Working on Styling the home page with CSS3. Will Style as I go.
+
+**Thoughts**: I love working on Back-end But Front-end is not that bad.
