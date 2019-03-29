@@ -44,3 +44,18 @@
 **Today's Progress**: Working on Styling the home page with CSS3. Will Style as I go.
 
 **Thoughts**: I love working on Back-end But Front-end is not that bad.
+
+### Day 4: March 28, Thursday
+
+**Today's Progress**: I started working on a game in Godot 3.1 with static typed gdscript. not much progress today only 5 lines of production code, mostly comets and pass statements  
+
+**Thoughts**: I love working on Back-end But Front-end is not that bad.
+
+### Day 5: March 29, Frieday
+
+**Today's Progress**: I started working on styling the home page in CSS3. set 
+the background color.
+
+**Thoughts**: I love working on Back-end But Front-end is not that bad. I really like using CSS3. not that inthous about the BuldPost App. I want to make a 
+P2P matching service for a godot muildiplayer game. I really love 
+game development with godot 3.1 using GDscript with static typing. I wish python had static typing. well Cython super-set of python does but It only works well on Linux.I have to use Windows for school and testing games.
