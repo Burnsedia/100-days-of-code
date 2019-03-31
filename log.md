@@ -51,7 +51,7 @@
 
 **Thoughts**: I love working on Back-end But Front-end is not that bad.
 
-### Day 5: March 29, Frieday
+### Day 5: March 29, Friday
 
 **Today's Progress**: I started working on styling the home page in CSS3. set 
 the background color.
@@ -59,3 +59,10 @@ the background color.
 **Thoughts**: I love working on Back-end But Front-end is not that bad. I really like using CSS3. not that inthous about the BuldPost App. I want to make a 
 P2P matching service for a godot muildiplayer game. I really love 
 game development with godot 3.1 using GDscript with static typing. I wish python had static typing. well Cython super-set of python does but It only works well on Linux.I have to use Windows for school and testing games.
+
+### Day 6: March 30, Saturday
+
+**Today's Progress**: I work on Free Code Camp CSS lessons for the day.
+
+**Thoughts**:I am liking CSS and working web development. still not my passion but that can change. I like art and coding and this has both 
+like game development.
