@@ -66,3 +66,22 @@ game development with godot 3.1 using GDscript with static typing. I wish python
 
 **Thoughts**:I am liking CSS and working web development. still not my passion but that can change. I like art and coding and this has both 
 like game development.
+
+### Day 6: March 31, Sunday
+**Today's Progress**: I finish working on free code camp Basic CSS3.
+
+**Thoughts**:I am liking CSS and working web development. I am going to try to get my responsive design certificate for the 100-days-of-code
+ 
+
+### Day 7: April 1, Monday
+
+**Today's Progress**: Nothing. Taking a mental heath break today. need my injection.
+
+**Thoughts**: I am going to join a game jam for the Linux platform. I love Linux and I will make a Linux up game. 
+
+### Day 8: April 2, Tuesday
+
+**Today's Progress**: Working on Player Class for the mobile port of Spacer. Also working on Main.CSS for BuldPost
+
+**Thoughts**: working on relearning Godot Game Engine. I Like the Engine and I like how I can export the engine to HTML5 and WebAssebly.
+I am liking the Static Typing with godot 3.1.0 version of GDscript.
